@@ -1,0 +1,18 @@
+    #columns {
+        width: 600px;
+    }
+
+    #columns .column {
+        position: relative;
+        width: 46%;
+        padding: 0%;
+        border: solid 1px #000;
+    }
+
+    #columns .left {
+        float: left;
+    }
+
+    #columns .right {
+        float: right;
+    }
